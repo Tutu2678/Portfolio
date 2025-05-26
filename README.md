@@ -1,12 +1,32 @@
-# React + Vite
+# 💻 My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fully responsive, animated portfolio built using **React**, **Three.js**, **GSAP**, and **Framer Motion**. It presents my work, skills, and experience through a visually rich and interactive web experience.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🌐 **Landing Page** with a 3D animated avatar
+- 👤 **About Me Section** showcasing academic and professional background
+- 🛠️ **Skills Display** with clean responsive layout
+- 💼 **Projects Section** featuring:
+  - 3D **carousel** of projects
+  - **Card slider view** for detailed exploration
+- ✉️ **Contact Form** with envelope-style open/close animation and real-time email sending
+- 📱 **Fully responsive** design across all devices
+- 🧭 **Interactive menu** with animated transitions
+- 🖼️ **Background transitions** between sections for seamless navigation
+- 🎯 **Custom cursor effects** to enhance interactivity
+- ⏳ **Animated loading screen** for smoother UX
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- React Three Fiber  
+- React Three Drei  
+- Three.js  
+- GSAP  
+- Framer Motion  
+- Tailwind CSS  
+- EmailJS
