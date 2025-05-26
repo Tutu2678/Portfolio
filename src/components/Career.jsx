@@ -27,7 +27,7 @@ const Career = () => {
       whileInView={"visible"}
       className="max-w-screen-sm sm:max-w-4xl px-4 sm:px-0 mx-auto overflow-hidden"
     >
-      <h2 className="text-whitetext-lg sm:text-xl md:text-2xl font-bold">
+      <h2 className="text-white text-lg sm:text-xl md:text-2xl font-bold">
         About me
       </h2>
       <div className="mt-1 space-y-2">
