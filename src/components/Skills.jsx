@@ -24,7 +24,9 @@ const skills = [
 const Skills = () => {
   return (
     <motion.div whileInView={"visible"}>
-      <h2 className="text-lg sm:text-xl md:text-2xl font-bold">Skills</h2>
+      <h2 className="text-lg text-white sm:text-xl md:text-2xl font-bold">
+        Skills
+      </h2>
       <div className=" mt-2 space-y-2">
         <motion.div
           whileInView={"visible"}

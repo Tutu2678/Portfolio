@@ -27,7 +27,9 @@ const Career = () => {
       whileInView={"visible"}
       className="max-w-screen-sm sm:max-w-4xl px-4 sm:px-0 mx-auto overflow-hidden"
     >
-      <h2 className="text-lg sm:text-xl md:text-2xl font-bold">About me</h2>
+      <h2 className="text-whitetext-lg sm:text-xl md:text-2xl font-bold">
+        About me
+      </h2>
       <div className="mt-1 space-y-2">
         <motion.p
           className="p-1 text-[10px] sm:text-xs md:text-sm break-words"
@@ -61,7 +63,7 @@ const Career = () => {
                 alt={item.title}
                 className="w-4 h-4 sm:w-6 sm:h-6 md:w-10 md:h-10 brightness-125"
               />
-              <p className="flex-1">{item.description}</p>
+              <p className="flex-1 text-white">{item.description}</p>
             </div>
           </motion.div>
         ))}
