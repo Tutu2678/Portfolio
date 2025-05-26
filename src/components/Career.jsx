@@ -32,7 +32,7 @@ const Career = () => {
       </h2>
       <div className="mt-1 space-y-2">
         <motion.p
-          className="p-1 text-[10px] sm:text-xs md:text-sm break-words"
+          className="p-1 text-[10px] sm:text-xs md:text-sm break-words text-white"
           initial={{ opacity: 0, y: -50 }}
           variants={{
             visible: {
